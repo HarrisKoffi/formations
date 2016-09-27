@@ -47,6 +47,7 @@ En cours de rédaction, le problème étant de connaitre le public visé (quelqu
 - Internationalisation
 - Tests ?
 - ActionCable
+- ActionMailer
 - Création API (c'est pas un peu pousser la formation trop loin?)
 - Déploiement d'une application rails (peut être placer ça sur la formation serveur, à voir...)
 - La création de script de déploiement sur Capistrano ou outil similaire (peut être placer ça sur la formation Capistrano)
